@@ -2,7 +2,7 @@
 
 
 
-__name__ = "BayrellLang"
+__name__ = "bayrell-lang"
 __version__ = "0.0.1"
 __description__ = "Bayrell Language"
 __license__ = "Apache License Version 2.0"
